@@ -1,3 +1,5 @@
 # Órbita - Manual do Usuário Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Added Orbita - Manual do Usuário] - {PR_MERGE_DATE}
+
+Initial version created
