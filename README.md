@@ -2,6 +2,8 @@
 
 Raycast extension to list the latest posts from the Órbita, the Brazilian hacker news maintained.
 
+https://www.raycast.com/tcelestino/orbita
+
 > **Note:** This project is a personal project and is not affiliated with the [Órbita](https://manualdousuario.net/orbita/).
 
 ## Getting Started
