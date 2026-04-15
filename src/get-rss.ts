@@ -9,7 +9,7 @@ export interface OrbitaPost {
   contentSnippet?: string;
 }
 
-const ORBITA_RSS_URL = "https://manualdousuario.net/feed/?post_type=orbita_post";
+const ORBITA_RSS_URL = "https://beta.orbita.social.br/feed";
 const parser = new Parser();
 
 export async function fetchOrbitaPosts(): Promise<OrbitaPost[]> {
